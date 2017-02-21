@@ -1,0 +1,1 @@
+Java's HashMap is a standard implementation of the long established Hash table data structure. Java also includes the related HashSet and Linked versions of both for all your hashing needs.
